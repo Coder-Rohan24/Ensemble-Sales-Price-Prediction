@@ -1,0 +1,11 @@
+[ 2025-08-25 12:56:16,741 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-08-25 12:56:16,746 ] 97 werkzeug - INFO -  * Debugger PIN: 108-676-862
+[ 2025-08-25 12:56:19,537 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:56:19] "GET / HTTP/1.1" 200 -
+[ 2025-08-25 12:56:19,638 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:56:19] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:56:26,927 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:56:26] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:56:36,323 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:56:36] "GET / HTTP/1.1" 200 -
+[ 2025-08-25 12:56:37,371 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:56:37] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-08-25 12:56:37,420 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:56:37] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2025-08-25 12:56:43,807 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:56:43] "GET / HTTP/1.1" 200 -
+[ 2025-08-25 12:56:43,957 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:56:43] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:56:46,468 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:56:46] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -

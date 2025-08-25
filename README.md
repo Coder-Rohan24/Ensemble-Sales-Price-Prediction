@@ -53,7 +53,7 @@ Ready to explore my project? Head over to my GitHub repository, where you can di
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/Fortunatetech/Stores-Sales-Prediction-ML-Project.git`
+1. Clone this repository: `git clone https://github.com/Coder-Rohan24/Ensemble-Sales-Price-Prediction`
 2. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage

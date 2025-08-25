@@ -1,0 +1,28 @@
+[ 2025-08-25 12:42:02,534 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-08-25 12:42:02,555 ] 97 werkzeug - INFO -  * Debugger PIN: 108-676-862
+[ 2025-08-25 12:47:47,829 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:47:47] "GET / HTTP/1.1" 200 -
+[ 2025-08-25 12:47:48,290 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:47:48] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:47:48,454 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:47:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-08-25 12:47:50,517 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:47:50] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:47:53,177 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:47:53] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-08-25 12:47:53,488 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:47:53] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2025-08-25 12:48:25,141 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:48:25] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-08-25 12:48:25,499 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:48:25] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2025-08-25 12:48:29,445 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:48:29] "GET / HTTP/1.1" 200 -
+[ 2025-08-25 12:48:29,566 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:48:29] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:48:29,704 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:48:29] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:48:30,388 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:48:30] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:50:45,533 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:50:45] "GET / HTTP/1.1" 200 -
+[ 2025-08-25 12:50:45,652 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:50:45] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:50:47,782 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:50:47] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:51:10,673 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:51:10] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-08-25 12:51:10,782 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:51:10] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2025-08-25 12:51:13,305 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:51:13] "GET / HTTP/1.1" 200 -
+[ 2025-08-25 12:51:13,635 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:51:13] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:51:33,503 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:51:33] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-08-25 12:51:33,714 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:51:33] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2025-08-25 12:54:42,679 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:54:42] "GET / HTTP/1.1" 200 -
+[ 2025-08-25 12:54:42,794 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:54:42] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:54:42,937 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:54:42] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:54:44,826 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:54:44] "[35m[1mGET /static/Sales%20Prediction%20demo.webm HTTP/1.1[0m" 206 -
+[ 2025-08-25 12:54:45,885 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2025 12:54:45] "GET / HTTP/1.1" 200 -
